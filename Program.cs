@@ -8,6 +8,8 @@ namespace TestAjla
         {
             Console.WriteLine("Hello da  Ajla!");
             Console.WriteLine("Hello da  Matteo");
+            Console.WriteLine("Zdravo od Ajle");
+
         }
     }
 }

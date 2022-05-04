@@ -7,8 +7,7 @@ namespace TestAjla
         static void Main(string[] args)
         {
             Console.WriteLine("Hello da  Ajla!");
-            Console.WriteLine("Hello da Gianluca step1!");
-            Console.WriteLine("Hello da Gianluca step2!");
+            Console.WriteLine("Hello da  Matteo");
         }
     }
 }
